@@ -167,6 +167,18 @@ body{
     transition-duration: 0.7s;
 
 }
+/*MAIN*/
+.ingreso{
+    width: 33%;
+    height: 50vh;
+    text-align: center;
+    font-family: cursive;
+}
+.ingreso legend, .ingreso div a{
+    color: white;
+    text-decoration: none;
+}
+
 /* FOOTER */
 .pie{
     text-align: center;
